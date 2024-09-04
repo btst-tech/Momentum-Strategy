@@ -1,4 +1,4 @@
-Momentum-Based Trading Strategy
+#Momentum-Based Trading Strategy
 Overview
 This trading strategy focuses on selecting stocks based on their momentum and volatility, with the goal of maintaining a portfolio of high-performing stocks while managing risk through position sizing and regular rebalancing. The strategy has three versions that differ in how frequently positional data is updated and how often rebalancing occurs.
 
